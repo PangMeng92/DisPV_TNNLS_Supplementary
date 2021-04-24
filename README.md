@@ -1,6 +1,6 @@
 # DisPV_TNNLS_Supplementary
 
-In the supplementary, we provide several images (.gif) in three folders to aid the reviwers to better assess the proposed DisP+V model.
+In the supplementary, we provide several images (.gif) in three folders to aid the readers to better assess the proposed DisP+V model.
 
 ---------------------------------------------------------------------------------
 Folder 1: Outputs of Generator (G)
